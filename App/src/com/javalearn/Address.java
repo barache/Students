@@ -2,6 +2,7 @@ package com.javalearn;
 
 public class Address {
 
+	//class attribut
 	private int addressId;
 	private String streetName;
 	private String city;
