@@ -2,6 +2,7 @@ package com.javalearn;
 
 public class Student {
 
+	//* Student class
 	private int id;
 	private String firstName;
 	private String lastName;
